@@ -4,6 +4,10 @@ Just stuff that goes through my mind and I when I catch some of it I try to writ
 
 ---
 
+### Articles
+
+* [Your Life Tweet](posts/life-tweet)
+
 ### Jokes
 
 * [Blockchain Is Changing The World](posts/blockchain-changing-world)
