@@ -1,0 +1,36 @@
+{
+  "type": "story",
+  "id": "carmel",
+  "hashtags": ["CarmelStory", "RoadTo1B", "EducationStory"],
+  "keywords": ["learning to code", "how to code", "learn to code", "learn how to code"],
+  "title": "The Carmel Story",
+  "summary": "This is the story of Carmel",
+  "author": {
+    "name": "I. Dan Calinescu",
+    "twitter": "idancali"
+  },
+  "chapters": [{
+    "variants": [{
+      "title": "I Could Have Become A Hustler",
+      "image": "https://i.imgur.com/n5g8QxS.png",
+      "url": "i-could-have-become-a-hustler",
+      "flavor": "default"
+    }]
+  },
+  {
+    "variants": [{
+      "title": "Poor Kids Deserve A Shot Too",
+      "url": "poor-kids-deserve-a-shot-too",
+      "image": "https://i.imgur.com/dgZe3BX.png",
+      "flavor": "default"
+    }]
+  },
+  {
+    "variants": [{
+      "title": "Education For The Sake Of Education Is Not Enough",
+      "url": "education-for-the-sake-of-education-is-not-enough",
+      "image": "https://i.imgur.com/1yf7E7q.png",
+      "flavor": "default"
+    }]
+  }]
+}
