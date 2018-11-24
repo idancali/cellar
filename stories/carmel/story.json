@@ -14,7 +14,12 @@
       "title": "I Could Have Become A Hustler",
       "image": "https://i.imgur.com/n5g8QxS.png",
       "url": "i-could-have-become-a-hustler",
-      "flavor": "default"
+      "flavor": "default",
+      "sections": [{},
+        { "variants": [{ "title": "I Could Have Ended Up A Thief" }] },
+        { "variants": [{ "title": "I Could Have Ended Up A Bully" }] },
+        { "variants": [{ "title": "I Could Have Ended Up A Bully" }] },
+        { "variants": [{ "title": "Education Saved My Life" }] }, {}]
     }]
   },
   {
@@ -22,7 +27,13 @@
       "title": "Poor Kids Deserve A Shot Too",
       "url": "poor-kids-deserve-a-shot-too",
       "image": "https://i.imgur.com/dgZe3BX.png",
-      "flavor": "default"
+      "flavor": "default",
+      "sections": [{},
+        { "variants": [{ "title": "Once A Hustler ..." }] },
+        { "variants": [{ "title": "Raging Against The Educational System" }] },
+        { "variants": [{ "title": "The Educational System Is Setup To Favor The Privileged" }] },
+        { "variants": [{ "title": "Everyone Deserves An Equal Chance" }] },
+        { "variants": [{ "titlee": "The Future Of Education Should Be Open To Everyone" }] }]
     }]
   },
   {
@@ -30,7 +41,11 @@
       "title": "Education For The Sake Of Education Is Not Enough",
       "url": "education-for-the-sake-of-education-is-not-enough",
       "image": "https://i.imgur.com/1yf7E7q.png",
-      "flavor": "default"
+      "flavor": "default",
+      "sections": [{},
+        { "variants": [{ "title": "We Need A New Kind Of Educational Model" }] },
+        { "variants": [{ "title": "True Education Must Lead To Job Creation" }] },
+        { "variants": [{ "title": "Every Job Will Be A Tech Job" }] }]
     }]
   }]
 }
