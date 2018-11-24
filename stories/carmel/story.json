@@ -5,6 +5,7 @@
   "keywords": ["learning to code", "how to code", "learn to code", "learn how to code"],
   "title": "The Carmel Story",
   "summary": "This is the story of Carmel",
+  "url": "https://carmel.io/story",
   "chapters": [{
     "author": "I. Dan Calinescu",
     "date": "18-11-2018",
